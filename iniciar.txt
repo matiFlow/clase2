@@ -1,1 +1,2 @@
 archivo = Bienvenido al nuevo proyecto
+archivo2 = nueva prueba
