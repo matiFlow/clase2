@@ -1,1 +1,1 @@
-archivo = Bienvenido al nuevo proyecto
+archivo = nuevo texto
