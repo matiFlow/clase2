@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 archivo = Bienvenido al nuevo proyecto
 archivo2 = nueva prueba
+=======
+archivo = nuevo texto
+>>>>>>> eabc2db855b0b5231e28ad7351c1a59563f6a26b
